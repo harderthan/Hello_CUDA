@@ -18,3 +18,7 @@
 - 예제로 배우는 CUDA 프로그래밍
 - [NVIDIA Developer Blog](https://devblogs.nvidia.com/easy-introduction-cuda-c-and-c/)
 - [stack overflow](https://stackoverflow.com/questions/13245258/handle-error-not-found-error-in-cuda)
+
+---
+
+*Harderthan, kheo1772@gmail.com*

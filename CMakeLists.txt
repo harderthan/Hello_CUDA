@@ -1,3 +1,4 @@
+// Harderthan, kheo1772@gmail.com
 cmake_minimum_required(VERSION 3.10)
 project(hello_cuda)
 set(CMAKE_CXX_STANDARD 11)
